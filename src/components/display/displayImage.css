@@ -1,0 +1,26 @@
+
+.image-box {
+    
+    font-family: "poppins", sans-serif;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    height: 390px;
+    width: 350px;
+    
+}
+
+ img {
+    height: 270px;
+    width: 270px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#link {
+    text-decoration: none;
+}
